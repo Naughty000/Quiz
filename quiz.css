@@ -1,0 +1,76 @@
+body{
+    background-color:#DFDFE2;
+    display :block;
+    margin:0 auto;
+}
+
+#navbar{
+    background-color: #0a0a0a;
+    height:30px;
+    padding:5px;
+}
+
+
+#bar{
+    color: #FEAC32;       
+    font-size: medium;
+    display: inline-block;
+    margin:0 auto;
+
+}
+
+option{
+    color:black;
+    background-color: #DFDFE2;
+}
+
+option.highlight {
+            background-color: #3498db; 
+            color: white;
+        }
+
+#details{
+    margin:0 auto;
+    height:30px;
+    width:70%;
+    border-bottom:3px solid rgb(160, 151, 151);
+}
+
+
+#form{
+    margin:0 auto;
+    height:50px;
+    width:70%;
+}
+
+#form h2{
+    border-bottom:3px solid rgb(160, 151, 151);
+}
+
+a{
+    color:#DFDFE2;
+}
+
+#question{
+    height:50px;
+}
+
+
+button{
+    background-color: #DFDFE2;
+    color: black;
+    margin-left:150px;
+    width:200px;
+    height:30px;
+}
+
+ 
+
+#footer{
+    background-color: #0a0a0a;
+    height:70px;
+    padding:5px;
+    color: #DFDFE2;
+    width:100%;
+    text-align: center;
+}
